@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1655656742 source:d:\1_estudio academico\utn-frgp\2022 primer cuatrimestre\tp final\prototipo\prototipo2\restaurante\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<clocale>
+	"fecha.h"
+	"venta.h"
+	"persona.h"
+	"plato.h"
+	"funciones.h"
+
+1653949416 d:\1_estudio academico\utn-frgp\2022 primer cuatrimestre\tp final\prototipo\prototipo2\restaurante\fecha.h
+
+1655576453 d:\1_estudio academico\utn-frgp\2022 primer cuatrimestre\tp final\prototipo\prototipo2\restaurante\venta.h
+
+1654277720 d:\1_estudio academico\utn-frgp\2022 primer cuatrimestre\tp final\prototipo\prototipo2\restaurante\persona.h
+
+1655433520 d:\1_estudio academico\utn-frgp\2022 primer cuatrimestre\tp final\prototipo\prototipo2\restaurante\plato.h
+
+1655602104 d:\1_estudio academico\utn-frgp\2022 primer cuatrimestre\tp final\prototipo\prototipo2\restaurante\funciones.h
+
+1669331483 source:d:\1_estudio academico\utn-frgp\2022 primer cuatrimestre\tp final\prototipo\prototipo2\prototipo_restaurante\vientos del sur prototipo\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<clocale>
+	"fecha.h"
+	"ventaDetalle.h"
+	"ventaCabecera.h"
+	"usuario.h"
+	"plato.h"
+	"funciones.h"
+
+1653949416 d:\1_estudio academico\utn-frgp\2022 primer cuatrimestre\tp final\prototipo\prototipo2\prototipo_restaurante\vientos del sur prototipo\fecha.h
+
+1655576453 d:\1_estudio academico\utn-frgp\2022 primer cuatrimestre\tp final\prototipo\prototipo2\prototipo_restaurante\vientos del sur prototipo\venta.h
+
+1657047192 d:\1_estudio academico\utn-frgp\2022 primer cuatrimestre\tp final\prototipo\prototipo2\prototipo_restaurante\vientos del sur prototipo\persona.h
+
+1655983044 d:\1_estudio academico\utn-frgp\2022 primer cuatrimestre\tp final\prototipo\prototipo2\prototipo_restaurante\vientos del sur prototipo\plato.h
+
+1658402716 d:\1_estudio academico\utn-frgp\2022 primer cuatrimestre\tp final\prototipo\prototipo2\prototipo_restaurante\vientos del sur prototipo\funciones.h
+
+1656482843 d:\1_estudio academico\utn-frgp\2022 primer cuatrimestre\tp final\prototipo\prototipo2\prototipo_restaurante\vientos del sur prototipo\ventadetalle.h
+
+1656272208 d:\1_estudio academico\utn-frgp\2022 primer cuatrimestre\tp final\prototipo\prototipo2\prototipo_restaurante\vientos del sur prototipo\ventacabecera.h
+
+1658272366 d:\1_estudio academico\utn-frgp\2022 primer cuatrimestre\tp final\prototipo\prototipo2\prototipo_restaurante\vientos del sur prototipo\usuario.h
+
